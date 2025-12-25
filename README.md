@@ -1,41 +1,57 @@
-👋 Hey, I’m Hassan!
+<h1 align="left">Building, breaking, fixing, learning — repeat 🔄</h1>
 
-🚀 Software Engineer | Full‑Stack Developer | Systems Thinker
+###
 
-💡 Strengths  
-Problem Solving • Clean Architecture • UI/UX Awareness • Resilience • Continuous Learning • Attention to Detail • Systems Thinking
+<p align="left">My name is Hassan, a Full‑Stack Software Engineer based in Jersey City, New Jersey.</p>
 
-🏆 Recent Accomplishment  
-Completed TripleTen’s Software Engineering Bootcamp (Certificate), building production‑style full‑stack applications using React, Node.js, Express, and MongoDB.
+###
 
-🔎 What Drives Me  
-I love creating intuitive, reliable applications that solve real problems. Whether I’m refining state management, optimizing backend validation, or polishing UI details, I’m always looking for ways to make the experience smoother and the codebase cleaner.
+<h2 align="left">About me</h2>
 
-⚡ Fun Fact  
-I used to think every feature needed to be perfect before committing it to Git… now I commit early, often, and with intention.
+###
 
-💻 Why Software Engineering?
-Software engineering is the perfect intersection of creativity, logic, and real‑world impact. I’ve always been drawn to technology, but everything clicked the moment I wrote my first “HELLO WORLD.” That tiny line of code opened up an entire universe of possibility — and I’ve been hooked ever since.
+<p align="left">I'm a Full‑Stack Software Engineer with hands‑on experience delivering production‑ready applications through both client projects and independent builds.  <br>I specialize in React, JavaScript, TypeScript, Node.js, Express, and PostgreSQL, with a strong focus on secure, scalable features and clean, maintainable code.<br><br>💡 What I bring to the table:<br>- Real‑world externship experience (Fox Finance) building secure document workflows aligned with compliance requirements.  <br>- Production‑style projects showcasing authentication flows, responsive UI, and backend validation.  <br>- Collaborative engineering mindset: sprints, code reviews, and clear documentation.  <br>- Committed to writing maintainable code and fostering workflows that make teams more efficient and resilient.<br><br>🚀 Current focus: Continuously expanding my skill set and eager to learn new frameworks, tools, and technologies to tackle complex engineering challenges. 
+  
 
-📈 Looking Ahead  
-I’m excited to join a team where I can contribute to meaningful products, grow as a developer, and continue building scalable, user‑focused applications.
 
-🛠️ Tech Stack  
+  > Recruiters: I’m actively seeking opportunities where I can contribute to building secure, scalable applications and grow into leadership responsibilities. My GitHub highlights both professional externship work and personal projects that demonstrate my ability to deliver real business value.</p>
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="28"/>
-   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?logo=api&logoColor=white&style=for-the-badge" height="28"/>
-</p>
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
 
 ## 📬 Let's Connect
 
